@@ -1,0 +1,5 @@
+module Utility
+
+Lazyer 2.0 ./Lazyer.qml
+Ticker 2.0 ./Ticker.qml
+

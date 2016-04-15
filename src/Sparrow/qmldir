@@ -1,0 +1,12 @@
+module Sparrow
+
+Page 2.0 ./Page.qml
+
+Tracker 2.0 ./Tracker.qml
+
+Navigation 2.0 ./Navigation.qml
+NavigationItem 2.0 ./NavigationItem.qml
+NavigationStack 2.0 ./NavigationStack.qml
+Drawer 2.0 ./Drawer.qml
+NavigationBar 2.0 ./NavigationBar.qml
+NavigationSwipe 2.0 ./NavigationSwipe.qml

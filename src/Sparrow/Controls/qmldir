@@ -1,0 +1,13 @@
+# version 2.0
+module Controls
+
+Ripple 2.0 ./Ripple.qml
+RippleButton 2.0 ./RippleButton.qml
+Icon 2.0 ./Icon.qml
+SparrowTextField 2.0 ./SparrowTextField.qml
+RoundedImage 2.0 ./RoundedImage.qml
+
+# internal QObject ./QObject.qml
+# singleton Theme 2.0 ./Theme.qml
+# Ripples
+

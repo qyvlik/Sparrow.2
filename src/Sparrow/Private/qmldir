@@ -1,0 +1,11 @@
+module Private
+
+# singleton GeneralSettings 1.0 ./GeneralSettings.qml
+
+QObject 2.0 ./QObject.qml
+Container 2.0 Container.qml
+PageManager 2.0 ./PageManager.qml
+RowContainer 2.0 RowContainer.qml
+
+internal BaseContainer BaseContainer.qml
+internal GlowAccess GlowAccess.qml

@@ -1,0 +1,6 @@
+module Theme
+
+singleton FontAwesome 2.0 ./FontAwesome.qml
+# RippleButtonTheme 2.0 ./RippleButtonTheme.qml
+# NavigationBarTheme 2.0 ./NavigationBarTheme.qml
+# SparrowTextFieldTheme 2.0 ./SparrowTextFieldTheme.qml
