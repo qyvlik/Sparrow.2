@@ -1,0 +1,35 @@
+module Sparrow
+
+singleton FontAwesome 3.0 ./FontAwesome.qml
+
+AvoidMultiTouchArea 3.0 ./components/AvoidMultiTouchArea.qml
+BottomLine 3.0 ./components/BottomLine.qml
+Icon 3.0 ./components/Icon.qml
+Ripple 3.0 ./components/Ripple.qml
+RoundedImage 3.0 ./components/RoundedImage.qml
+SampleImage 3.0 ./components/SampleImage.qml
+SampleList 3.0 ./components/SampleList.qml
+SampleRow 3.0 ./components/SampleRow.qml
+SampleText 3.0 ./components/SampleText.qml
+FillColor 3.0 ./components/FillColor.qml
+
+MultiLayer 3.0 ./layers/MultiLayer.qml
+Drawerlayer 3.0 ./layers/Drawerlayer.qml
+PopupLayer 3.0 ./layers/PopupLayer.qml
+
+Tracker 3.0 ./utilitys/Tracker.qml
+Ticker 3.0 ./utilitys/Ticker.qml
+Lazyer 3.0 ./utilitys/Lazyer.qml
+
+OperatorBar 3.0 ./navigation/OperatorBar.qml
+SwipeToPop 3.0 ./navigation/SwipeToPop.qml
+SwipeView 3.0 ./navigation/SwipeView.qml
+SwipeViewControler 3.0 ./navigation/SwipeViewControler.qml
+AppWindow 3.0 ./navigation/AppWindow.qml
+
+SampleButton 3.0 ./controls/SampleButton.qml
+SampleCheckBox 3.0 ./controls/SampleCheckBox.qml
+SampleProgressBar 3.0 ./controls/SampleProgressBar.qml
+SampleSlider 3.0 ./controls/SampleSlider.qml
+SampleSwitch 3.0 ./controls/SampleSwitch.qml
+SampleTextField 3.0 ./controls/SampleTextField.qml
