@@ -38,6 +38,7 @@ AppWindow {
                     onValidClicked: {
                         homePage.toggleDrawer();
                     }
+                    // Tracker { }
                 }
 
                 centerComponent: Item {

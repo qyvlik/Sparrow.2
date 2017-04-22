@@ -15,14 +15,14 @@ Rectangle {
         anchors.leftMargin: 8 * dp
         anchors.verticalCenter: parent.verticalCenter
 
-        width: 32 *dp
-        height: 32 * dp
+        width: 36 *dp
+        height: 36 * dp
         sourceComponent: leftComponent
-//        Binding {
-//            target: leftLoader.item
-//            property: "anchors.fill"
-//            value: leftLoader
-//        }
+        Binding {
+            target: leftLoader.item
+            property: "anchors.fill"
+            value: leftLoader
+        }
     }
 
     property Component centerComponent: null
